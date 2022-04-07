@@ -1,0 +1,31 @@
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.row.content {height: 450px}
+.sidenav {
+  padding-top: 20px;
+  background-color: #f1f1f1;
+  height: 100%;
+}
+.card{
+  text-align: center;
+}
+  .row.content {height:auto;}
+  p::first-letter {
+    font-size: 200%;
+    color: #8A2BE2;
+  }
+  h5::first-letter {
+    font-size: 200%;
+    color: #196619;
+  }
+  #demotext {
+  text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #65FF05 0px 0px 20px, #65FF05 0px 0px 30px, #65FF05 0px 0px 40px, #65FF05 0px 0px 50px, #65FF05 0px 0px 75px, -27px 29px 2px rgba(101,255,5,0);
+  color: #42C100;
+  background: #F8F9FA;
+  }
+
+  .lead{
+    color: white
+  }
