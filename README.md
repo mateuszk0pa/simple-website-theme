@@ -1,6 +1,9 @@
 # simple-website-theme
 Website theme
 
+![screen](https://raw.githubusercontent.com/mateuszk0pa/simple-website-theme/screen/screen.png)
+![screen](https://raw.githubusercontent.com/mateuszk0pa/simple-website-theme/screen/screen%20(1).png)
+
 > ### License:
 > Copyright (c) 2022 ***[mateuszk0pa](https://github.com/mateuszk0pa)***.
 >
